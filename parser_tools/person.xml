@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GBK"?> 
+<doc> 
+    <person id="1" sex="m"> 
+        <name>zhangsan</name> 
+        <age>32</age> 
+        <adds> 
+            <add code="home">home add</add> 
+            <add code="com">com add</add> 
+        </adds> 
+    </person> 
+    <person id="2" sex="w"> 
+        <name>lisi</name> 
+        <age>22</age> 
+        <adds> 
+            <add ID="22" id="23" code="home">home add</add> 
+            <add ID="23" id="22" code="com">com add</add> 
+            <add id="24" code="com">com add</add> 
+        </adds> 
+    </person> 
+</doc>
